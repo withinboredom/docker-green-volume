@@ -1,0 +1,8 @@
+{
+  "services": [
+    {
+      "name": "green-volume",
+      "tags": ["ops"]
+    }
+  ]
+}
